@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "city": "Dhaka",
+        "country": "Bangladesh",
+        "airport_name": "Hazrat Shahjalal International Airport",
+        "airport_code": "DAC"
+    },
+    {
+        "id": 2,
+        "city": "Chittagong",
+        "country": "Bangladesh",
+        "airport_name": "Cox's Bazar",
+        "airport_code": "CGP"
+    },
+    {
+        "id": 3,
+        "city": "Cox's Bazar",
+        "country": "Bangladesh",
+        "airport_name": "Shah Amanat International",
+        "airport_code": "CXB"
+    },
+    {
+        "id": 4,
+        "city": "Sylhet",
+        "country": "Bangladesh",
+        "airport_name": "Sylhet Civil",
+        "airport_code": "ZYL"
+    },
+    {
+        "id": 5,
+        "city": "Saidpur",
+        "country": "Bangladesh",
+        "airport_name": "Saidpur",
+        "airport_code": "SPD"
+    },
+    {
+        "id": 6,
+        "city": "Rajshahi",
+        "country": "Bangladesh",
+        "airport_name": "Rajshahi",
+        "airport_code": "RJH"
+    },
+    {
+        "id": 7,
+        "city": "Barisal",
+        "country": "Bangladesh",
+        "airport_name": "Barisal Barisal Airport",
+        "airport_code": "BZL"
+    },
+    {
+        "id": 8,
+        "city": "Jessore",
+        "country": "Bangladesh",
+        "airport_name": "Jessore",
+        "airport_code": "JSR"
+    },
+    {
+        "id": 9,
+        "city": "Kalkata",
+        "country": "India",
+        "airport_name": "Calcutta",
+        "airport_code": "CCU"
+    },
+    {
+        "id": 10,
+        "city": "Delhi",
+        "country": "India",
+        "airport_name": "Indira Gandhi Airport",
+        "airport_code": "DEL"
+    },
+    {
+        "id": 11,
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "airport_name": "Dubai",
+        "airport_code": "DXB"
+    },
+    {
+        "id": 12,
+        "airport_name": "Hartsfield Jackson Atlanta International Airport",
+        "country": "United States",
+        "city": "Atlanta",
+        "airport_code": "ATL"
+    },
+    {
+        "id": 13,
+        "airport_name": "Beijing Capital International Airport",
+        "country": "China",
+        "city": "Beijing",
+        "airport_code": "PEK"
+    },
+    {
+        "id": 14,
+        "airport_name": "Tokyo Haneda Airport",
+        "country": "Japan",
+        "city": "Tokyo",
+        "airport_code": "HND"
+    },
+    {
+        "id": 15,
+        "airport_name": "Dubai International Airport",
+        "country": "United Arab Emirates",
+        "city": "Dubai",
+        "airport_code": "DXB"
+    }
+]

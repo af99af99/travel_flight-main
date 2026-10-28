@@ -1,0 +1,71 @@
+/* #root */
+ .header-root,
+ #slider-root,
+ #fly-app-root,
+ #flight-choose-root,
+ #book-contaxt-root,
+ .container-root {
+  max-width: 1380px;
+  /* /* max-width: 1280px;  */
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.bg-primary {
+  @apply bg-teal-700;
+}
+.text-primary {
+  @apply text-teal-700;
+}
+.text-secondary {
+  @apply text-gray-600;
+}
+.border-primary {
+  @apply border;
+  @apply border-gray-200;
+}
+.field-wrapper .search-input-button {
+  position: relative;
+}
+.field-wrapper .overlay-styles {
+  position: absolute;
+  z-index: 999999;
+}
+.no-select {
+  user-select: none; /* For modern browsers */
+    -moz-user-select: none; /* For Firefox */
+    -webkit-user-select: none; /* For Safari */
+    -ms-user-select: none;
+}
+.arrow-line {
+  height: 10px;  
+  margin: 20px 0 10px 0;
+  position: relative;
+}
+
+.hero-section{
+  position: relative;
+} 
+.hero-section .hero-input {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+}
+.arrow-line .line1,
+.arrow-line .line2 {
+  @apply bg-primary;
+  border-radius: 50px;
+  height: 2px;
+}
+
+.arrow-line .line2 {
+  width: 20px;
+  position: absolute;
+  right: -3px;
+  top: -6px;
+  transform: rotate(45deg);
+}

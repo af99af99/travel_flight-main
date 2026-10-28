@@ -1,0 +1,14 @@
+<svg
+    aria-hidden="true"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <path d="M13 3h-2v3h2V3z"></path>
+    <path d="M7.05 7.64L4.93 5.5 3.52 6.93l2.12 2.12 1.41-1.41z"></path>
+    <path
+        d="M18 14c0 1.54-.58 2.94-1.53 4H23v2H1v-2h6.53A6 6 0 1118 14z"
+    ></path>
+    <path d="M23 13h-3v2h3v-2z"></path>
+    <path d="M1 13h3v2H1v-2z"></path>
+    <path d="M18.07 5.51l-2.12 2.13 1.41 1.41 2.12-2.12-1.41-1.42z"></path>
+</svg>
